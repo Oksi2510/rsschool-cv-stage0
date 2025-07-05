@@ -11,4 +11,7 @@
 | discord | Oksana (Oksi2510)               |
 
 ### About me:
-I want to become a frontend developer working with Angular. I'm learning hard and can stay focused on tasks. I am responsible and able to work on several things at once. I've been teaching myself coding for 12 weeks yet.
+I want to become a frontend developer working with Angular. I'm learning hard and can stay focused on tasks. I am responsible and able to work on several things at once. I've been teaching myself coding for 12 weeks yet. 
+
+### My skils:
+I know and can use HTML, CSS, SCSS, and basic JavaScript.
