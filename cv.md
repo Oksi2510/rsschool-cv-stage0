@@ -11,7 +11,29 @@
 | discord | Oksana (Oksi2510)               |
 
 ### About me:
-I want to become a frontend developer working with Angular. I'm learning hard and can stay focused on tasks. I am responsible and able to work on several things at once. I've been teaching myself coding for 12 weeks yet. 
+I want to become a frontend developer working with Angular. I'm learning hard and can stay focused on tasks.  
+I am responsible and able to work on several things at once. I've been teaching myself coding for 12 weeks yet. 
 
 ### My skils:
 I know and can use HTML, CSS, SCSS, and basic JavaScript.
+
+### My code:
+>  <pre lang="markdown"> $(".questions__acc-link").on("click", function (e) {
+>    e.preventDefault();
+>
+>    if ($(this).hasClass("questions__acc-link--active")) {
+>      $(this).removeClass("questions__acc-link--active");
+>      $(this).children(".questions__acc-text").slideUp();
+>    } else {
+>      $(".questions__acc-link").removeClass("questions__acc-link--active");
+>      $(".questions__acc-text").slideUp();
+>      $(this).addClass("questions__acc-link--active");
+>      $(this).children(".questions__acc-text").slideDown();
+>    }
+>  }); </pre>
+
+### Work experience:
+I learned frontend development at Aroken School and created two websites:  
+https://github.com/Oksi2510/OksanaPractic  
+https://github.com/Oksi2510/auto  
+I used HTML, SCSS, JavaScript, and Figma.  
