@@ -34,8 +34,9 @@ I know and can use HTML, CSS, SCSS, and basic JavaScript.
 
 ### Work experience:
 I created two websites:  
-https://github.com/Oksi2510/OksanaPractic  
-https://github.com/Oksi2510/auto  
+[createx](https://github.com/Oksi2510/OksanaPractic)  
+[auto](https://github.com/Oksi2510/auto) 
+ 
 I used HTML, SCSS, JavaScript, and Figma.  
 
 ### Education:
@@ -50,3 +51,4 @@ I used HTML, SCSS, JavaScript, and Figma.
 ### English:
 I have a B1 level of English.  
 I learn English through YouTube and practice it 3–5 hours a day.
+
