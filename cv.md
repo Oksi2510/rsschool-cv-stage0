@@ -33,7 +33,7 @@ I know and can use HTML, CSS, SCSS, and basic JavaScript.
 >  }); </pre>
 
 ### Work experience:
-I learned frontend development at Aroken School and created two websites:  
+I created two websites:  
 https://github.com/Oksi2510/OksanaPractic  
 https://github.com/Oksi2510/auto  
 I used HTML, SCSS, JavaScript, and Figma.  
