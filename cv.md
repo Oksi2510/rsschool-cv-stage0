@@ -41,7 +41,7 @@ I used HTML, SCSS, JavaScript, and Figma.
 ### Education:
 | Year | Institution                                           |  Program / Course	          | Specialty / Role  |
 |------|-------------------------------------------------------|------------------------------| ------------------|
-|2025  |Aruken School                                          |Vocational Secondary Education|Frontend Developer |
+|2025  |Aruken School                                          |Frontend Developer Course     |Frontend Developer |
 |2024  |Elite Language School                                  |English Language              |Speaker            |
 |2024  |Self-study                                             |QA Testing	                  | QA Tester         |
 |2024  |Netology                                               |QA Tester Course              |QA Tester          |
