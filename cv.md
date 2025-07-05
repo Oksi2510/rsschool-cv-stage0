@@ -40,13 +40,20 @@ I created two websites:
 I used HTML, SCSS, JavaScript, and Figma.  
 
 ### Education:
-| Year | Institution                                           |  Program / Course	          | Specialty / Role  |
-|------|-------------------------------------------------------|------------------------------| ------------------|
-|2025  |Aruken School                                          |Frontend Developer Course     |Frontend Developer |
-|2024  |Elite Language School                                  |English Language              |Speaker            |
-|2024  |Self-study                                             |QA Testing	                  | QA Tester         |
-|2024  |Netology                                               |QA Tester Course              |QA Tester          |
-|2021  |St. Petersburg College of Management and Commerce      |Catering Service Organization |Manager            |
+- 2025 – Aruken School  
+*Frontend Developer Course — Frontend Developer*
+
+- 2024 – Elite Language School  
+*English Language — Speaker*
+
+- 2024 – Self-study  
+*QA Testing — QA Tester*
+
+- 2024 – Netology  
+*QA Tester Course — QA Tester*
+
+- 2021 – St. Petersburg College of Management and Commerce  
+*Catering Service Organization — Manager*
 
 ### English:
 I have a B1 level of English.  
