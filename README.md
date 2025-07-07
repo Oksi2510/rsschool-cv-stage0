@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Oksi2510.github.io/rsschool-cv/
