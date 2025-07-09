@@ -1,0 +1,280 @@
+/* =========================ALL========================= */
+html, body {
+  scroll-behavior: smooth;
+}
+
+.container {
+  max-width: 1310px;
+  padding: 0 15px;
+  margin: 0 auto;
+  height: 100%;
+}
+
+.header {
+  background: #898989;
+}
+
+.heading {
+  font-size: 40px;
+  font-weight: 700;
+}
+
+.text {
+  font-size: 32px;
+  font-weight: 500;
+  line-height: 1.5;
+  margin: 50px;
+}
+
+/* =========================HEADER========================= */
+.header__nav {
+  display: flex;
+  justify-content: space-between;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+
+}
+
+.header__nav-item {
+  transition: all .3s;
+
+}
+
+.header__nav-item:hover {
+  transform: scale(1.1);
+  text-shadow: 0px 0 15px #ffffff;
+}
+
+.header__nav-link {
+  padding: 33px 0;
+  display: block;
+}
+
+/* =========================PERSON========================= */
+.background-line {
+  background: #D9D9D9;
+  padding-bottom: 377px;
+  height: 0;
+  width: 100%;
+  margin: 0 0 -377px 0;
+}
+
+.person__inner {
+  padding: 50px;
+  display: flex;
+  align-items: flex-end;
+}
+
+.person__img-box {
+  height: 577px;
+  width: 492px;
+  border-radius: 170px;
+  overflow: hidden;
+  margin-right: 130px;
+}
+
+.person__img-box img {
+  height: 100%;
+  width: 100%;
+}
+
+.person__name {
+  font-size: 64px;
+  font-weight: 800;
+  text-decoration-line: underline;
+  text-decoration-style: solid;
+  text-wrap: nowrap;
+}
+
+.person__position {
+  font-size: 48px;
+  font-weight: 700;
+  margin: 5px 0 22px;
+}
+
+.person__contacts {
+  font-size: 24px;
+  font-weight: 500;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  height: 250px;
+
+}
+
+.person__contact {
+  transition: all .3s;
+}
+
+.person__contact:hover {
+  transform: scale(1.1);
+}
+
+.person__link {
+  display: block;
+  height: 100%;
+  width: 100%;
+  margin: 5px;
+}
+
+/* =========================ABOUT========================= */
+.about__inner {
+  padding-bottom: 50px;
+}
+
+/* =========================SKILS========================= */
+.skils__inner {
+  padding-bottom: 50px;
+}
+
+/* =========================CODE========================= */
+.code__inner {
+  padding-bottom: 50px;
+}
+
+.code__quote {
+  margin: 50px;
+  padding: 22px;
+  background-color: rgba(217, 217, 217, 0.36);
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  font-family: sans-serif;
+}
+
+/* =========================EXPERIANCE========================= */
+.experience__inner {
+  padding-bottom: 50px;
+}
+
+.experience__list {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 50px 215px;
+}
+
+.experience__list-logo {
+  transition: all .3s;
+}
+
+.experience__list-logo:hover {
+  transform: scale(1.1);
+}
+
+.experience__list-link {
+  display: block;
+  height: 100%;
+}
+
+/* =========================EDUCATION========================= */
+
+.education__inner {
+  padding-bottom: 50px;
+}
+
+
+.education__acc-list {
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 500;
+  margin: 50px;
+}
+
+.education__acc-item {
+  margin-bottom: 50px;
+}
+
+.education__acc-item:last-child {
+  margin-bottom: 0;
+}
+
+.education__acc-head {
+  display: flex;
+  align-items: center;
+}
+
+.education__acc-head>span {
+  display: block;
+  height: 30px;
+  width: 30px;
+  position: relative;
+  margin-right: 50px;
+}
+
+.education__acc-head>span::after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  right: 50%;
+  width: 17px;
+  height: 0;
+  border: #000000 solid 1px;
+  border-radius: 2px;
+  transform: translateX(50%);
+}
+
+.education__acc-head>span::before {
+  content: "";
+  position: absolute;
+  top: 50%;
+  right: 50%;
+  width: 17px;
+  height: 0;
+  border: #000000 solid 1px;
+  border-radius: 2px;
+  transform: translateX(50%) rotate(90deg);
+  transition: all 0.3s ease;
+}
+
+.education__acc-link--active .education__acc-head>span::before {
+  transform: translateX(50%) rotate(0deg);
+}
+
+.education__acc-text {
+  margin-top: 15px;
+  font-size: 26px;
+  margin-left: 80px;
+  display: none;
+}
+
+/* =========================ENGLISH========================= */
+.english__inner {
+  padding-bottom: 50px;
+}
+
+/* =========================FOOTER========================= */
+.footer {
+  background: #898989;
+}
+
+.footer__inner {
+  display: flex;
+  align-items: end;
+  justify-content: space-between;
+  margin: 0 50px;
+  padding: 50px 0;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.footer__logo svg {
+  height: 72px;
+}
+
+.st0 {}
+
+.st5 {}
+
+.st7 {}
+
+.footer__content {}
+
+.footer__git-link {
+  display: block;
+  padding: 10px 10px 10px 0;
+}
+
+.footer__copyright {}
